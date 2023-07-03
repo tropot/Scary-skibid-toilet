@@ -1,0 +1,7 @@
+.header {
+    color: rgb(0, 0, 0);
+    -unity-text-align: upper-center;
+    font-size: 22px;
+    -unity-font: url('project://database/Assets/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=db89af98a17909a4691597adbc352c50&type=3#NotInter-Regular');
+    -unity-font-style: bold;
+}
